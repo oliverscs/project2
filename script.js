@@ -9,5 +9,4 @@ const moveRandom = document.querySelector("#move-random");
 
 moveRandom.addEventListener("mouseenter", function(e) {
     moveRandomEl(e.target);
->>>>>>> 3f67be77586697342ef39e580319c13a271ee42d
 });
